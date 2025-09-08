@@ -1,1 +1,6 @@
-https://sowndhar-weather-finder.netlify.app/
+
+
+- ## 🌟 Preview  
+
+✨ Check it out here → **[Weather App](https://sowndhar-weather-finder.netlify.app/)**  
+
